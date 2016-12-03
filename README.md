@@ -1,5 +1,5 @@
-# MERN-Redux
-##Custom MERN/Redux boilerplate for myself. Super simple, to start any project.
+# MERN + Redux Click App
+##Simple app I made in the process of learning Redux
   
   ## Steps to get started
 ###1)npm install
